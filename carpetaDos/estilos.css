@@ -6,5 +6,7 @@ body{
 
 #cabecera{
   color: rgb(66, 218, 28);  
-  background-color: aquamarine;
+}
+#foother{
+  background-color: blueviolet;
 }
