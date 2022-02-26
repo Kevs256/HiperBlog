@@ -8,3 +8,5 @@
 -pull requests
 -etc
 -creado estudiando en -platzi
+-invluye ejemplos en muchos so
+-lo entiende hasta mi mama
